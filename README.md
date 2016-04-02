@@ -2,7 +2,7 @@
 my hexo blog backup
 
 ## website
-[blog.justjiayu.com](blog.justjiayu.com)
+[blog.justjiayu.com](http://blog.justjiayu.com)
 
 ## Submit note
 ```
